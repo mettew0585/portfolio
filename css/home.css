@@ -32,9 +32,11 @@ body {
   display: flex;
 }
 li {
-  list-style: none;
   margin-bottom: 0;
   margin-right: 2vw;
+}
+.upper-menu__thing li {
+  list-style: none;
 }
 
 .introduction {
@@ -46,7 +48,7 @@ li {
   margin-top: 20vw;
 }
 .bio__text {
-  width: 60vw;
+  width: 80vw;
   font-size: 1.4vw;
 }
 .bio__title {
