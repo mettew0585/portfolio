@@ -43,6 +43,9 @@ li {
   margin-right: 20vw;
   margin-top: 20vw;
 }
+.bio__text {
+  font-size: 1.6vw;
+}
 .bio__title {
   font-size: 4vw;
 }
