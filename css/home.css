@@ -31,8 +31,10 @@ body {
   font-size: 2vw;
   display: flex;
 }
-li {
+.upper-menu__thing li {
   list-style: none;
+}
+li {
   margin-bottom: 0;
   margin-right: 2vw;
 }
