@@ -20,7 +20,7 @@ body {
   border-bottom-style: solid;
   border-bottom-width: 0.1vw;
 }
-asd .upper-menu__name {
+.upper-menu__name {
   font-size: 4vw;
   color: black;
 }
